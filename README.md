@@ -1,6 +1,6 @@
 # Nodejs-authentication
 
-This is a Node.js project that implements authentication functionality using a combination of technologies such as Express and Mongoose.
+This is a Node.js project that implements authentication functionality using a combination of technologies such as Node.js, Express and Mongoose.
 
 
 ## Features
@@ -9,6 +9,7 @@ This authentication project provides the following features:
 
 - Registration of new users
 - Login for existing users
+- Logout for authenticated users
 
 ## Technologies Used
 
