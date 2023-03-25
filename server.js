@@ -109,6 +109,8 @@ app.get("/logout", (req, res) => {
   res.redirect("/");
 });
 
-app.listen(5001, () => {
-  console.log("Server is working");
+const Port = 5001;
+
+app.listen(Port, () => {
+  console.log(`Server is working on ${Port}`);
 });
