@@ -1,4 +1,4 @@
-# Nodejs-authentication
+# Nodejs-Authentication
 
 This is a Node.js project that implements authentication functionality using a combination of technologies such as Node.js, Express and Mongoose.
 
